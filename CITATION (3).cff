@@ -15,17 +15,17 @@ authors:
 identifiers:
   - type: url
     value: >-
-      https://github.com/GilGarate21212743/gemelosdigitales_p5_analisis_de_sistemas_biologicos
+      https://github.com/GilGarate21212743/proyecto-final
 abstract: |2-
    Tecnologico Nacional de México 
    Instituto Tecnologico de Tijuana
    Ingeniería Biomédica 
    Gemelos Digitales
-   Práctica 5- Analisis de sistemas biologicos
+   Proyecto Final. Modelado Dinámico y Análisis de Convergencia de Modelos Biológicos.
 keywords:
-- Cellular dynamics
-- Three-compartment interaction
-- Bifurcation parameter
-- Numerical simulation
-- Limit cycle
+- Nonlinear Dynamics
+- Biological Modeling
+- Parameter Estimation
+- Equilibrium Analysis
+- Data Smoothing
 license: BSD-2-Clause
